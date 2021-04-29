@@ -69,3 +69,4 @@ sec = time.strftime('%S', now)
 
 print('%s년 %s월 %s일' % (year, month, day))
 print('%s시 %s분 %s일' % (hour, mini, sec))
+
